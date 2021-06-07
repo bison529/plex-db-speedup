@@ -8,7 +8,6 @@ You may notice a few errors the first time it is run reference "Error: no such c
 
 
 Instructions: Enter the following from whatever directory you choose.
-I recommend starting from the /opt/appdata/plex/scripts directory, but your choice.
 
 cd /opt
 
